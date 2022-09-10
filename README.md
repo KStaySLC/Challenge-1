@@ -15,3 +15,5 @@ WHEN I view the heading attributes
 THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+Website is deployed at the following URL:  https://kstayslc.github.io/Challenge-1/
